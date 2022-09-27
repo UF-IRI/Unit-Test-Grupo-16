@@ -2,8 +2,5 @@
 
 namespace foobar
 {
-    int Example::getValue() const
-    {
-        return 99;
-    }
+
 }
